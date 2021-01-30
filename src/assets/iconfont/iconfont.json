@@ -1,0 +1,30 @@
+{
+  "id": "2250862",
+  "name": "iconViid",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "9509954",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "9712613",
+      "name": "密码",
+      "font_class": "mima",
+      "unicode": "e6a8",
+      "unicode_decimal": 59048
+    },
+    {
+      "icon_id": "1127367",
+      "name": "用户",
+      "font_class": "user",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    }
+  ]
+}
